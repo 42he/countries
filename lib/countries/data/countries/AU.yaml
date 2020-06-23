@@ -24,7 +24,13 @@ AU:
   world_region: APAC
   un_locode: AU
   nationality: Australian
+  vat_rates:
+    standard: 10
+    reduced: []
+    super_reduced: 
+    parking: 
   postal_code: true
+  postal_code_format: "\\d{4}"
   unofficial_names:
   - Australia
   - Australien

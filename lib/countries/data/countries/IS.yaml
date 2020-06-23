@@ -27,7 +27,14 @@ IS:
   un_locode: IS
   nationality: Icelander
   eea_member: true
+  vat_rates:
+    standard: 24
+    reduced:
+    - 11
+    super_reduced: 
+    parking: 
   postal_code: true
+  postal_code_format: "\\d{3}"
   unofficial_names:
   - Iceland
   - Island
